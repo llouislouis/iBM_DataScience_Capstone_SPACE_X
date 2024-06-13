@@ -1,5 +1,3 @@
-# JonathanMClark 2023-01-04
-
 # Import required libraries
 import pandas as pd
 import dash
